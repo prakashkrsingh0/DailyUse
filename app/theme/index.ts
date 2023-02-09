@@ -1,0 +1,40 @@
+const fontFamily = {
+  sfProDisplay: 'SFProDisplay-Regular',
+  sfProDisplayBold: 'SFProDisplay-Bold',
+  sfProDisplayMedium: 'SFProDisplay-Medium',
+  roboto: 'Roboto-Regular',
+  robotoBold: 'Roboto-Bold',
+};
+
+const color = {
+  Cardinal: '#CA8C2B',
+  Black: '#000000',
+  White: '#FFFFFF',
+  FadeWhite: '#FFFFFF99',
+  Tansparent: 'transparent',
+  Scorpion: '#5C5C5C',
+  Fiord: '#3E4766', // bottom icon color,
+  SearchPalceholderColor: '#8C92A6',
+  CounterDecrementBorderColor: '#D2D6DC',
+  ProfileBackgroundColor: '#F5F5F5',
+  facebookBackgroundColor: '#425994',
+  VKonTakte: '#3275F6',
+  googleBackground: 'rgba(210, 210, 210,0.9)',
+  googleTextColor: '#6D6E70',
+  Black_Opacity_05: 'rgba(0,0,0,0.5)',
+  Black_Opacity_02: 'rgba(0,0,0,0.2)',
+  TelegramBGColor: '#168BD9',
+  WhatAppBGColor: '#5BD068',
+  chatReceiver: '#F0F5F9',
+  LikeRatingColor: '#EAD51E',
+  LikedColor: '#D7443E',
+  dislikeRatingColor: '#D9D9D9',
+  scheduleTextColor: '#959595',
+  unlikedHeart: '#E2E2E2',
+  White_AD: '#FFFFFFAD',
+  Lynch: '#626C91',
+  AthensGray: '#EFF1F4',
+  Mischka: '#D1D4DD',
+};
+
+export {fontFamily, color};
